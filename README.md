@@ -88,9 +88,8 @@ AND MANY MORE
 | Repo | Description | Stack |
 |---|---|---|
 | **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · tauri · Wayland |
-| **zzyutil** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
-| **rebound** | TUI tool/dotfile manager| RUST
-| **Vella Linux** | custom Arch distro, `labwc` + `tuigreet` | archiso · QEMU |
+| **[zzyutil](https://github.com/0xClumzzy/zzyutil)** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
+| **[rebound](https://github.com/0xClumzzy/rebound)** | TUI tool/dotfile manager| RUST
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
 
