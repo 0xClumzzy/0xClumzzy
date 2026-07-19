@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%40clumzzy%3A~%23+whoami;offensive+security+student;CPTS+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
@@ -10,7 +10,7 @@
 
 ```css
 > connection established
-> target: 0xClumzzy
+> target: 0xClumzZy
 > status: root
 ```
 
@@ -19,7 +19,7 @@
 - 🎓 Cyber Security degree, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
 - ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
-- 🐧 Arch Linux · `labwc` · `zsh` + Starship — if it has color, it's not finished
+- 🐧 Arch Linux `noctalia` · `kde` · `zsh` + Starship — if it has color, it's not finished
 
 <br>
 
@@ -80,15 +80,16 @@
 | **Nimbus** | SSRF → LocalStack AWS → container escape |
 | **SmartHire** | pickle deserialization + `.pth` hijacking |
 | **DevArea** | CVE-2022-46364 SSRF → Flask session forging → SUID/cron privesc |
-
+AND MANY MORE
 <br>
 
 ### `ls -la ~/projects`
 
 | Repo | Description | Stack |
 |---|---|---|
-| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · wgpu · Wayland |
+| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · tauri · Wayland |
 | **zzyutil** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
+| **rebound** | TUI tool/dotfile manager| RUST
 | **Vella Linux** | custom Arch distro, `labwc` + `tuigreet` | archiso · QEMU |
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
