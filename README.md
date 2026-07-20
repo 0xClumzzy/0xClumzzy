@@ -99,7 +99,7 @@ AND MANY MORE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
-`connect --handle=0xClumzzy`
+`connect --handle=0xClumzZy`
 
 [![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/Writeups-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
