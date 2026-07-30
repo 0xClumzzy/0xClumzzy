@@ -71,8 +71,6 @@
 
 ### `tail -f exploit_chains.log`
 
-> Latest: pickle deserialization → PDF CMap abuse (`bedside.htb`). The fastest way to root a box is apparently through a font table nobody QA'd.
-
 | Box | Chain |
 |---|---|
 | **Enigma** | NFS creds → OpenSTAManager RCE → OliveTin privesc |
@@ -84,7 +82,7 @@
 | **2Million** | JS deobfuscation → invite code chain → API enumeration |
 | **Silentium** | Flowise CVEs → Docker escape → Gogs privesc |
 
-*(and a growing pile more — see writeups)*
+*(And many more)*
 
 <br>
 
