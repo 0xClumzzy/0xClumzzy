@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS&CWES+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
@@ -14,7 +14,7 @@
 > status: root
 ```
 
-- 🎯 grinding toward **CPTS** — Certified Penetration Testing Specialist
+- 🎯 grinding toward **CPTS&CWES**
 - 🕳️ living on **HackTheBox**: recon → exploit chain → privesc → writeup → repeat
 - 🎓 Cyber Security student, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
