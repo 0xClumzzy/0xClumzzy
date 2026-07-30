@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS/CWES+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%40clumzzy%3A~%23+whoami;offensive+security+student;CPTS+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
@@ -10,16 +10,16 @@
 
 ```css
 > connection established
-> target: 0xClumzZy
+> target: 0xClumzzy
 > status: root
 ```
 
-- 🎯 grinding toward **CPTS & CWES** — Certified Penetration Testing Specialist and Web Penetration tester
+- 🎯 grinding toward **CPTS** — Certified Penetration Testing Specialist
 - 🕳️ living on **HackTheBox**: recon → exploit chain → privesc → writeup → repeat
 - 🎓 Cyber Security degree, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
 - ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
-- 🐧 Arch Linux `noctalia` · `kde` · `zsh` + Starship — if it has color, it's not finished
+- 🐧 Arch Linux · `labwc` · `zsh` + Starship — if it has color, it's not finished
 
 <br>
 
@@ -69,6 +69,30 @@
 
 <br>
 
+### `htb --profile --verbose`
+
+<div align="center">
+
+<img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID" alt="HTB Badge" />
+
+</div>
+
+```yaml
+class:        Offensive Security Operative
+status:       [ ACTIVE — CPTS ARC ]
+grind:        recon → exploit → privesc → writeup → repeat
+weakness:     font tables nobody QA'd
+known_bug:    cannot stop rooting boxes past 2am
+```
+
+[![HTB Profile](https://img.shields.io/badge/HTB_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](#)
+[![CPTS](https://img.shields.io/badge/CPTS-IN_PROGRESS-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
+[![Rank](https://img.shields.io/badge/Rank-classified-1a1a1a?style=for-the-badge)](#)
+
+<sub>badge auto-updates from live HTB data — everything else is self-reported, trust but verify</sub>
+
+<br>
+
 ### `tail -f exploit_chains.log`
 
 > Latest: pickle deserialization → PDF CMap abuse (`research.bedside.htb`). The fastest way to root a box is apparently through a font table nobody QA'd.
@@ -80,16 +104,16 @@
 | **Nimbus** | SSRF → LocalStack AWS → container escape |
 | **SmartHire** | pickle deserialization + `.pth` hijacking |
 | **DevArea** | CVE-2022-46364 SSRF → Flask session forging → SUID/cron privesc |
-AND MANY MORE
+
 <br>
 
 ### `ls -la ~/projects`
 
 | Repo | Description | Stack |
 |---|---|---|
-| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · tauri · Wayland |
-| **[zzyutil](https://github.com/0xClumzzy/zzyutil)** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
-| **[rebound](https://github.com/0xClumzzy/rebound)** | TUI tool/dotfile manager| RUST
+| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · wgpu · Wayland |
+| **zzyutil** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
+| **Vella Linux** | custom Arch distro, `labwc` + `tuigreet` | archiso · QEMU |
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
 
@@ -99,7 +123,7 @@ AND MANY MORE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
-`connect --handle=0xClumzZy`
+`connect --handle=0xClumzzy`
 
 [![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/Writeups-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
