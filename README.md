@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS+%2F+CWES+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
@@ -11,27 +11,15 @@
 ```css
 > connection established
 > target: 0xClumzZy
-> loading exploits......... [██████████] 100%
-> loading patience.......... [██░░░░░░░░]  20%
 > status: root
 ```
 
-- 🎯 grinding toward **CPTS & CWES** — Certified Penetration Testing Specialist and Web Exploitation Specialist
+- 🎯 grinding toward **CPTS** — Certified Penetration Testing Specialist
 - 🕳️ living on **HackTheBox**: recon → exploit chain → privesc → writeup → repeat
-- 🎓 Cyber Security degree, **Botho University**
+- 🎓 Cyber Security student, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
 - ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
-- 🐧 Arch Linux · `noctalia` · KDE · `zsh` + Starship — if it has color, it's not finished
-
-<br>
-
-<div align="center">
-
-### `sudo trophy --list`
-
-<img src="https://github-profile-trophy.vercel.app/?username=0xClumzzy&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Repositories,Stars,Commits,Followers" width="100%"/>
-
-</div>
+- 🐧 Arch Linux (**BlackArch**) · `labwc` (Wayland) · `zsh` + Starship — if it has color, it's not finished
 
 <br>
 
@@ -81,38 +69,22 @@
 
 <br>
 
-### `htb --profile --verbose`
-
-<div align="center">
-<img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID" alt="HTB Badge" />
-</div>
-
-```yaml
-class:        Offensive Security Operative
-status:       [ ACTIVE — CPTS / CWES ARC ]
-grind:        recon → exploit → privesc → writeup → repeat
-weakness:     font tables nobody QA'd
-known_bug:    cannot stop rooting boxes past 2am
-```
-
-[![CPTS](https://img.shields.io/badge/CPTS-IN_PROGRESS-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
-[![CWES](https://img.shields.io/badge/CWES-IN_PROGRESS-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
-[![Rank](https://img.shields.io/badge/Rank-classified-1a1a1a?style=for-the-badge)](#)
-
-<br>
-
 ### `tail -f exploit_chains.log`
 
-> Latest: pickle deserialization → PDF CMap abuse (`research.bedside.htb`). The fastest way to root a box is apparently through a font table nobody QA'd.
+> Latest: pickle deserialization → PDF CMap abuse (`bedside.htb`). The fastest way to root a box is apparently through a font table nobody QA'd.
 
 | Box | Chain |
 |---|---|
-| **Enigma** | NFS → Roundcube → OpenSTAManager RCE → OliveTin root |
+| **Enigma** | NFS creds → OpenSTAManager RCE → OliveTin privesc |
 | **Paperwork** | LPD command injection → PJL primitives → SCM_RIGHTS fd leak |
-| **Nimbus** | SSRF → LocalStack AWS → container escape |
-| **SmartHire** | pickle deserialization + `.pth` hijacking |
-| **DevArea** | CVE-2022-46364 SSRF → Flask session forging → SUID/cron privesc |
-| *...and however many more it takes to finish CPTS* | `→ full writeups on the blog` |
+| **Nimbus** | SSRF (decimal IP bypass) → LocalStack misconfig → container escape |
+| **bedside** | pdfminer/DICOM surface → pickle deserialization → path traversal |
+| **SmartHire** | MLflow pickle RCE + `.pth` hijacking |
+| **DevArea** | SOAP/WSDL → CVE-2022-46364 SSRF → Flask session forging → privesc |
+| **2Million** | JS deobfuscation → invite code chain → API enumeration |
+| **Silentium** | Flowise CVEs → Docker escape → Gogs privesc |
+
+*(and a growing pile more — see writeups)*
 
 <br>
 
@@ -120,9 +92,10 @@ known_bug:    cannot stop rooting boxes past 2am
 
 | Repo | Description | Stack |
 |---|---|---|
-| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator, GPU-native rewrite in progress | Rust · Tauri · Wayland |
-| **[zzyutil](https://github.com/0xClumzzy/zzyutil)** | TUI recon/CTF/dotfiles manager, TOML-driven | Rust · ratatui |
-| **[rebound](https://github.com/0xClumzzy/rebound)** | TUI tool / dotfile manager | Rust |
+| **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator; GPU-native rewrite (wgpu/glyphon/winit) in progress | Rust · Tauri · xterm.js |
+| **[zzyutil](https://github.com/0xClumzzy/zzyutil)** | TUI recon/CTF/dotfiles launcher, TOML-driven, vim-nav | Rust · ratatui |
+| **[zzyplan](https://github.com/0xClumzzy/zzyplan)** | grayscale desktop productivity suite — calendar, tasks, notes, habits | Rust · Tauri v2 · React · SQLite |
+| **[rebound](https://github.com/0xClumzzy/rebound)** | TUI dotfile manager | Rust |
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
 
@@ -134,8 +107,8 @@ known_bug:    cannot stop rooting boxes past 2am
 
 `connect --handle=0xClumzZy`
 
-[![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Writeups-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
-[![HTB](https://img.shields.io/badge/Hack_The_Box-2a2a2a?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-protocol-zero-url-here)
+[![Blog](https://img.shields.io/badge/Writeups-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://your-blog-url-here)
+[![HTB](https://img.shields.io/badge/Hack_The_Box-2a2a2a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/YOUR_ID)
 
 </div>
