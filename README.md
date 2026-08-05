@@ -19,8 +19,7 @@
 - 🎓 Cyber Security student, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
 - ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
-- 🐧 Arch Linux  · `kde` (Wayland) · `zsh` + Starship — if it has color, it's not finished
-
+- 🐧 Arch Linux  
 <br>
 
 <table width="100%">
