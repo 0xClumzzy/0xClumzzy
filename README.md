@@ -15,6 +15,7 @@
 ```
 
 - 🎯 grinding toward **CPTS&CWES**
+- 🕳️ living on **HackTheBox**: recon → exploit chain → privesc → writeup → repeat
 - 🎓 Cyber Security student, **Botho University**
 - 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
 - ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
