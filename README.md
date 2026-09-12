@@ -58,6 +58,7 @@
   </picture>
 </a>
 </br>
+
 ### `cat ~/exploit_chains.log`
 
 | Box | Kill Chain |
