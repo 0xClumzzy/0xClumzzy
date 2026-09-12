@@ -50,7 +50,7 @@
 </h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,lua,powershell,rust,C,html,css,js,C++,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,bash,lua,powershell,rust,C,C++,&perline=8" />
   </a>
 
 
