@@ -102,19 +102,14 @@
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
 
 <br>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=184793121&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @0xClumzzy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
 
-### `watch --snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/0xClumzzy/0xClumzzy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
-
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ### `connect --handle=0xClumzZy`
 
 <div align="center">
