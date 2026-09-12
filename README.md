@@ -54,17 +54,15 @@
   </a>
 
 
-<!-- Section gitHub Stats-->
-<h2>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
-</h2>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=91912264" target="_blank" style="display: block" align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184793121" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @elverdavid-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184793121&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @0xClumzzy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184793121&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-<br>
+</br>
 ### `cat ~/exploit_chains.log`
 
 | Box | Kill Chain |
