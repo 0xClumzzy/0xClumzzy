@@ -42,61 +42,29 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
-### `arsenal --list`
+<!-- Section lenguages and tools -->
 
-**Exploitation**
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=lua&logoColor=white)
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
+</h2>
 
-**Recon / Web**
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Burp](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=white)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,astro,nestjs,html,css,js,mongodb,&perline=8" />
+  </a>
 
-**Environment**
-![Arch](https://img.shields.io/badge/-Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
-### `stats --dump`
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xClumzzy&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b3b3b3&icon_color=808080&hide=stars" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0xClumzzy&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b3b3b3&currStreakNum=ffffff&sideNums=b3b3b3&dates=666666" width="100%"/>
-
-</td>
-</tr>
-</table>
-
+<!-- Section gitHub Stats-->
+<h2>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
+</h2>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=91912264" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @elverdavid-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 <br>
-
-<div align="center">
-
-### `git log --graph`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xClumzzy&theme=github-compact&bg_color=00000000&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `achievements --unlocked`
-
-<img src="https://github-profile-trophy.vercel.app/?username=0xClumzzy&theme=onedark&no-frame=true&no-bg=true&column=7" width="100%"/>
-
-</div>
-
-<br>
-
 ### `cat ~/exploit_chains.log`
 
 | Box | Kill Chain |
