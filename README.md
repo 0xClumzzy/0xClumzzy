@@ -13,9 +13,7 @@
  │  > uptime: persistent                                            │
  └──────────────────────────────────────────────────────────────────┘
 ```
-
 <br>
-
 - **CPTS & CWES** (planned)
 - **HackTheBox** (training) => recon → exploit chain → privesc → writeup → repeat
 - Cyber Security student, **Botho University**
@@ -36,21 +34,14 @@
 </div>
 
 <br>
-
-
 <!-- Section lenguages and tools -->
 
 <h2>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
 </h2>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,lua,powershell,rust,arch,c,cpp,&perline=8" />
   </a>
-
-
-<!-- Copy-paste in your Readme.md file -->
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184793121" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184793121&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -90,7 +81,6 @@
     <img alt="Contribution Time Distribution of @0xClumzzy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
-
 ### `ls -la ~/projects`
 
 | Repo | Description | Stack |
@@ -101,9 +91,6 @@
 | **[rebound](https://github.com/0xClumzzy/rebound)** | TUI dotfile manager | Rust |
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
-
-<br>
-
 ### `connect --handle=0xClumzZy`
 
 <div align="center">
