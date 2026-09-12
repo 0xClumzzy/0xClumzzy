@@ -25,10 +25,8 @@
 - **HackTheBox** (training) => recon → exploit chain → privesc → writeup → repeat
 - Cyber Security student, **Botho University**
 - **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
-- **I use Arch btw** 
-
-<br>
-
+- **I use Arch btw**
+  
 <div align="center">
 
 ### `whoami --socials`
