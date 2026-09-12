@@ -119,10 +119,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-protocol-zero-url-here)
+[![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0xclumzzy.github.io/protocol-zero/index.html)
 [![Writeups](https://img.shields.io/badge/Writeups-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)](https://your-blog-url-here)
-[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xClumzzy)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/0xclumzzy)
+[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2663698)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cleoxploiti?new=1)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/0xClumzzy)
 
 </div>
