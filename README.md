@@ -3,13 +3,8 @@
 <a href="https://github.com/0xClumzzy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=E5E5E5&background=00000000&center=true&vCenter=true&width=650&lines=root%400xClumzZy%3A~%23+whoami;offensive+security+student;CPTS%26CWES+candidate;HackTheBox+%7C+CTF+player;building+things+that+break+things" alt="Typing SVG" />
 </a>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
-
 </div>
-
-<br>
-
 ```
  ┌──────────────────────────────────────────────────────────────────┐
  │  > connection established                                        │
