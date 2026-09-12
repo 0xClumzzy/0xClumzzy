@@ -6,10 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 
-[![Followers](https://img.shields.io/github/followers/0xClumzzy?label=Followers&style=flat&color=333333)](https://github.com/0xClumzzy?tab=followers)
-[![Stars](https://img.shields.io/github/stars/0xClumzzy?label=Stars&style=flat&color=333333)](https://github.com/0xClumzzy?tab=stars)
-[![Profile views](https://komarev.com/ghpvc/?username=0xClumzzy&label=Profile+Views&color=333333&style=flat)](https://github.com/0xClumzzy)
-
 </div>
 
 <br>
@@ -25,12 +21,11 @@
 
 <br>
 
-- 🎯 grinding toward **CPTS & CWES**
-- 🕹️ living on **HackTheBox** — recon → exploit chain → privesc → writeup → repeat
-- 🎓 Cyber Security student, **Botho University**
-- 🏆 **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
-- ✍️ authoring **Offensive Python: Vol. I — Reconnaissance**
-- 🐧 **Arch Linux** user — rice everything
+- **CPTS & CWES** (planned)
+- **HackTheBox** (training) => recon → exploit chain → privesc → writeup → repeat
+- Cyber Security student, **Botho University**
+- **BOCRA Cyberlympics** / **BOCRA Cyber National Drill** competitor
+- **I use Arch btw** 
 
 <br>
 
@@ -39,11 +34,9 @@
 ### `whoami --socials`
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xClumzzy)
-[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xClumzzy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xClumzzy)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xClumzzy)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/0xClumzzy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xclumzzy@proton.me)
+[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2663698)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](nkedin.com/in/0xclumzzy-theo-kufigwa-84b59a388/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clumzzysec@gmail.com)
 
 </div>
 
@@ -68,9 +61,6 @@
 
 **Environment**
 ![Arch](https://img.shields.io/badge/-Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
-![Wayland](https://img.shields.io/badge/-Wayland-000000?style=flat-square&logo=wayland&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
