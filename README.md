@@ -79,6 +79,7 @@
 <details>
 <summary><b>More writeups...</b></summary>
 <br>
+
 | Box | Kill Chain |
 |---|---|
 | **Labyrinth** | LDAP injection → Chromium sandbox escape |
@@ -86,6 +87,7 @@
 | **Usage** | JWT token leak → Docker socket mount → root |
 
 </details>
+
 <br>
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=184793121&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
@@ -93,7 +95,9 @@
     <img alt="Contribution Time Distribution of @0xClumzzy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
+
 ### `ls -la ~/projects`
+
 | Repo | Description | Stack |
 |---|---|---|
 | **[pulse](https://github.com/0xClumzzy/pulse)** | terminal emulator; GPU-native rewrite (wgpu/glyphon/winit) in progress | Rust · Tauri · xterm.js |
@@ -102,8 +106,11 @@
 | **[rebound](https://github.com/0xClumzzy/rebound)** | TUI dotfile manager | Rust |
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
+
 <br>
+
 ### `connect --handle=0xClumzZy`
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0xclumzzy.github.io/protocol-zero/index.html)
