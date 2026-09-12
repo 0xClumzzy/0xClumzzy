@@ -105,9 +105,7 @@
 | **recon.sh** | recon automation — CT logs, DNS, Shodan | Bash |
 | **Offensive Python Vol. I** | book on recon-focused offensive tooling | Python · LaTeX/Pandoc |
 
-<br>
 ### `connect --handle=0xClumzZy`
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Protocol_Zero-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0xclumzzy.github.io/protocol-zero/index.html)
