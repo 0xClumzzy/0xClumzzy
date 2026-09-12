@@ -47,7 +47,7 @@
 </h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,lua,powershell,rust,arch,c,cpp,vim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,bash,lua,powershell,rust,arch,c,cpp,vim&perline=9" />
   </a>
 
 
