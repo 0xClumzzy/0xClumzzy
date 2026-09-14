@@ -84,11 +84,10 @@
 
 </details>
 
-<br>
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=184793121&period=all_times" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @0xClumzzy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=184793121&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
 
